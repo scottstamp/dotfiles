@@ -1,0 +1,7 @@
+#!/bin/bash
+PKGNAME=$1
+PKGSHORT=${PKGNAME:0:2}
+
+rm -rf $PKGNAME $PKGNAME.tar.gz
+
+curl -L https://aur.archlinux.org/packages/$PKGSHORT/$PKGNAME/$PKGNAME.tar.gz | tar xzvf -

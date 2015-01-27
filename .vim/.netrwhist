@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/scott/RubymineProjects'
+let g:netrw_dirhist_2='/home/scott/RubymineProjects/gems'
+let g:netrw_dirhist_3='/home/scott/RubymineProjects/gems/atetracks-gem'
+let g:netrw_dirhist_4='/home/scott/RubymineProjects/gems/atetracks-gem/lib'
+let g:netrw_dirhist_5='/home/scott/RubymineProjects/gems/atetracks-gem/lib/atetracks'
